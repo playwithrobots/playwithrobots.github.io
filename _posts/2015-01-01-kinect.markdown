@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Kinect"
+category: "make-it-from-scratch"
+redirect_from: "/2012/04/02/minimal-urls-jekyll/"
+---
+##[ Kinect](/robotics-pool/kinect)
+
+[**Kinect**](http://en.wikipedia.org/wiki/Kinect) is a <span class="mw-redirect">motion sensing</span> input device by Microsoft for the Xbox 360 video game console and <span class="mw-redirect">Windows</span>PCs. The device features an RGB camera, depth sensor and multi-array microphone running proprietary software, which provide full-body 3D motion capture, facial recognition and voice recognition capabilities.
+
+At the Blur gaming zone in Chennai, I saw there were lots of people playing games using Xbox360 console and kinect  . And I thought well we do have a Kinect at our lab (We were using it as a depth sensor in another project), and I also love gaming. All I had to do was to work out the interface between the Kinect and the game. After a few hours of interface processing and several experiments in the lab, the game was finally ready to be played without any help of a controller. 
+
+Here is a video of me, playing a racing game using Kinect as gesture sensor. This was made while I was an intern in [RISE Lab](http://rise.cse.iitm.ac.in/wiki/index.php/RISE_Robotics_Group), [IITM.](http://www.iitm.ac.in/)
+
+OS configuration: Ubuntu 11.10, ROS electric, Openni unstable v1.5.2.23, NITE unstable v1.5.2.21 and X11 libraries.
+
+Game: - SuperTuxKart. 
+
+<iframe src="http://www.youtube.com/embed/BjhiKfrEUXU" frameborder="0" width="480" height="360"></iframe>
+
+Want to play ? Try your luck with this [package](https://github.com/AbhishekMehta/tf_experiments "Package on Github ") in ROS. 
+
+X11 libraries were used to generate fake keyboard events for controlling the game. 
+
+Comments are welcomed :) 
+
+<div style="clear:both"></div>
+
+ ** We have changed our commenting engine for better notification and privacy, previous comments for this article are available   [here.](http://graph.facebook.com/comments/?ids=http://www.playwithrobots.com/robotics-pool/kinect)  **
+
