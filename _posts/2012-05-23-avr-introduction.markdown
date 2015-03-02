@@ -1,19 +1,17 @@
 ---
 layout: post
 title: "Introduction to AVR microcontrollers"
-category: "make-it-from-scratch"
-redirect_from: "/2012/04/02/minimal-urls-jekyll/"
+category: "avr"
+redirect_from: "/robotics-pool/avr/intro/"
 ---
-##[ Introduction to AVR microcontrollers](/robotics-pool/avr/intro)
 
-	
-![I AM EVERY WHERE!!](/images/introduction%20to%20avr%20picture1.jpg "I AM EVERY WHERE!!")
+{% include image.html img="images/old/introduction%20to%20avr%20picture1.jpg" title="I AM EVERY WHERE!!" caption="I AM EVERY WHERE!!" class="lazyload" %}
 
-We are surrounded by lots of electronic gadgets. Mobile phones, mp3 players, air conditioner, microwave, dishwasher, home theater, pen drives, digital cameras, laser printers, automobiles, refrigerators and many more ….. All of these devices contains microcontroller.
+We are surrounded by lots of electronic gadgets. Mobile phones, mp3 players, air conditioner, microwave, dishwasher, home theater, pen drives, digital cameras, laser printers, automobiles, refrigerators and many more .... All of these devices contains microcontroller.
 
 Now a question will arise in your mind that if microcontrollers are so ubiquitous then what is a microcontroller!
 
-## **What is microcontroller?**
+## What is microcontroller?
 
 A microcontroller can be considered as a very small and simple version of a computer. Like a computer can be divided into number of small parts like CPU, RAM , hard disk, Keyboard, mouse, monitor and an operating software ( Windows or Linux or MAC) running into it.
 
@@ -69,29 +67,24 @@ We will now focus our study on ATmega32 microcontroller; it comes under mega cat
 
 The main terms used in microcontrollers:
 
-**CLOCK: - **Microcontrollers require a clock source to work. It is basically a signal that oscillates between high and low with a fixed time period. An AVR microcontroller executes most of its instructions in one clock cycle.
+**CLOCK:** Microcontrollers require a clock source to work. It is basically a signal that oscillates between high and low with a fixed time period. An AVR microcontroller executes most of its instructions in one clock cycle.
 
-**CLOCK SOURCE: - **ATmega32 has an inbuilt internal RC oscillator. By changing [fuse bit](/robotics-pool/avr/fuse "Fuse bits settings") values it is possible to configure internal RC oscillator to run at 1/2/4/8 MHz. It also has an option of using an external crystal if you require special clock rate like 7.3728MHz or 12MHz. Their advantage over internal RC oscillator is that their precision is high and clock frequencies don’t drift with temperature. Other options are also available for clock sources. To change a clock source you need to change the appropriate fuse bit.
+**CLOCK SOURCE:** ATmega32 has an inbuilt internal RC oscillator. By changing [fuse bit](/avr-fuse-bits "Fuse bits settings") values it is possible to configure internal RC oscillator to run at 1/2/4/8 MHz. It also has an option of using an external crystal if you require special clock rate like 7.3728MHz or 12MHz. Their advantage over internal RC oscillator is that their precision is high and clock frequencies don’t drift with temperature. Other options are also available for clock sources. To change a clock source you need to change the appropriate fuse bit.
 
-**FLASH MEMORY: -** ATmega32 has a 32Kb of flash memory. It’s like the hard disk of a microcontroller. Program that is to be executed by microcontroller is stored here. It is also commonly called program memory.
+**FLASH MEMORY:** ATmega32 has a 32Kb of flash memory. It’s like the hard disk of a microcontroller. Program that is to be executed by microcontroller is stored here. It is also commonly called program memory.
 
-**SRAM: - **Static Random Access Memory, this is the volatile memory of microcontroller i.e., data is lost as soon as power is turned off. ATmega32 is equipped with 2KB of internal SRAM. A small portion of SRAM is set aside for general purpose registers used by CPU and some for the peripheral subsystems of the microcontroller.
+**SRAM:** Static Random Access Memory, this is the volatile memory of microcontroller i.e., data is lost as soon as power is turned off. ATmega32 is equipped with 2KB of internal SRAM. A small portion of SRAM is set aside for general purpose registers used by CPU and some for the peripheral subsystems of the microcontroller.
 
-**EEPROM: -** It is Electrically Erasable Programmable ROM. It retains its data even after power off. It can be used to store variables whose value we want to retain after power off.
+**EEPROM:** It is Electrically Erasable Programmable ROM. It retains its data even after power off. It can be used to store variables whose value we want to retain after power off.
 
-**ISP: - **In System Programmable. The flash memory of AVR microcontrollers is In System self-Programmable. This means that AVR microcontrollers can be programmed using an ISP programmer in its application circuit.
+**ISP:** In System Programmable. The flash memory of AVR microcontrollers is In System self-Programmable. This means that AVR microcontrollers can be programmed using an ISP programmer in its application circuit.
 
-**PORTS: - **Like computers have several ports for communication (serial, parallel or USB) with another devices; microcontrollers also have Ports to interface it with LED’s, LCD’s ,buttons, another ICs/microcontrollers etc. ATmega32 has four ports namely Port A, Port B , Port C and Port D.
+**PORTS:** Like computers have several ports for communication (serial, parallel or USB) with another devices; microcontrollers also have Ports to interface it with LED’s, LCD’s ,buttons, another ICs/microcontrollers etc. ATmega32 has four ports namely Port A, Port B , Port C and Port D.
 
-**VCC: -** Supply voltage.
+**VCC:** Supply voltage.
 
-**GND: - **Ground
+**GND:** Ground
 
-So let’s move ahead with next article [Basic hardware and software requirement for AVR!](/robotics-pool/avr/getting-started). 
+So let’s move ahead with next article [Basic hardware and software requirement for AVR!](/avr-getting-started). 
 
-<span>Hope this was helpful to you! Any questions ? Comment here!</span>
-
-<div style="clear:both"></div>
-
- ** We have changed our commenting engine for better notification and privacy, previous comments for this article are available   [here.](http://graph.facebook.com/comments/?ids=http://www.playwithrobots.com/robotics-pool/avr/intro)  **
-
+Hope this was helpful to you! Any questions ? Comment here!
