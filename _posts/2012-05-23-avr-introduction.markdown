@@ -2,6 +2,7 @@
 layout: post
 title: "Introduction to AVR microcontrollers"
 category: "avr"
+comments : true
 redirect_from: "/robotics-pool/avr/intro/"
 ---
 

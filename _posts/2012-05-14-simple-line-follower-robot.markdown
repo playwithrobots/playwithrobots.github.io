@@ -2,6 +2,7 @@
 layout: post
 title: "Simple Line Follower robot"
 category: "make-it-from-scratch"
+comments : true
 redirect_from: "/make-it-form-scratch/simple-line-follower-robot/"
 ---
 It is a machine that follows a line, either a black line on white surface or vise-versa. For Beginners it is usually their first robot to play with. In this tutorial, we will teach you to make the line follower robot move on the line with a type of feedback mechanism. It’s the most basic example of adding small intelligence to a robot, but it’s actually the designer’s intelligence!!

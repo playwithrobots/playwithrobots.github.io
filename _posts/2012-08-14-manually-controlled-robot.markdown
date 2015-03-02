@@ -2,6 +2,7 @@
 layout: post
 title: "Manually controlled robot"
 category: "make-it-from-scratch"
+comments : true
 redirect_from: "/make-it-form-scratch/manually-controlled-robot/"
 ---
 This tutorial focuses on making a manual controlled robot using a wired remote control. This robot can traverse on plain surface as well as as rough terrain. 

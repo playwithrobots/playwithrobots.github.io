@@ -9,11 +9,13 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://playwithrobots.com" # the base hostname & protocol for your site
 twitter_username: playwithrobots
 github_username:  playwithrobots
-
+disqus_shortname: playwithrobots
 # Build settings
 markdown: redcarpet
 highlighter: pygments
 permalink: /:title/
 
+
 gems:
   - jekyll-redirect-from
+  - jekyll-sitemap

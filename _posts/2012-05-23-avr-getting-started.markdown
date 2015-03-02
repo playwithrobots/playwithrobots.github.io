@@ -2,6 +2,7 @@
 layout: post
 title: "Basic hardware and software required for AVR"
 category: "avr"
+comments : true
 redirect_from: "/robotics-pool/avr/getting-started/"
 ---
 For proper working of an AVR, we requires the following four things to start:

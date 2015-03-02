@@ -2,6 +2,7 @@
 layout: post
 title: "AVR fuse bits"
 category: "avr"
+comments : true
 redirect_from: "/robotics-pool/avr/fuse/"
 ---
 For Beginners Fuse bits seems to be very confusing but they are not so!

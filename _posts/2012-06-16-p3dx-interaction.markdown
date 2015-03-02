@@ -2,6 +2,7 @@
 layout: post
 title: "Human Interaction with Pioneer P3-DX"
 category: "pioneer"
+comments : true
 redirect_from: "/working-on-robots/pioneer/14-p3dx-interaction/"
 ---
 Developers have always tried to improve their ways of interaction with machines. From simple levers to radio buttons and then from push buttons to touch screens, developers have always tried to devise out simple yet more effective ways for interaction with robots. 

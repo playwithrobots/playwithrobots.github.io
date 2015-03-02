@@ -2,6 +2,7 @@
 layout: post
 title: "Light sensors"
 category: "sensors"
+comments : true
 redirect_from: "/robotics-pool/sensors/light-sensors/"
 ---
 This tutorial is on making sensor circuit using : 

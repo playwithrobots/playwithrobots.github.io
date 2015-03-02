@@ -2,6 +2,7 @@
 layout: post
 title: "Input/Output Concept"
 category: "avr"
+comments : true
 redirect_from: "/robotics-pool/avr/basic-input-output/"
 ---
 Like computers communicates with other devices (printers, pen-drives etc.) through ports (USB, serial etc.), ATmega32 Microcontroller communicates with other IC's through Ports. A Port is a combination of 8 pins, each of them able to send 1 bit data at a time. Together these 8 pins (Port) can send 8 bit of data at a time. ATmega32 Microcontroller has a four Ports namely Port A, Port B, Port C and Port D.

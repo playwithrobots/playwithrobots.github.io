@@ -2,6 +2,7 @@
 layout: post
 title: "ROS and SparkV"
 category: "spark-V"
+comments : true
 redirect_from: "/working-on-robots/sparkv/15-ros-and-sparkv/"
 ---
 [ROS (Robot Operating System)](http://ros.org/) provides libraries and tools to help software developers create robot applications. ROS is released under the terms of the [BSD license](http://en.wikipedia.org/wiki/BSD_license "BSD license"), and is [open source software](http://en.wikipedia.org/wiki/Open_source_software "Open source software"). It is free for commercial and research use. Most of my future tutorials will be based on ROS.

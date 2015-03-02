@@ -2,6 +2,7 @@
 layout: post
 title: "Advance Line Follower robot"
 category: "make-it-from-scratch"
+comments : true
 redirect_from: "/make-it-form-scratch/advance-line-follower-robot/"
 ---
 As the name suggests an Advanced Line Follower Robot is just a [Simple Line Follower Robot](/simple-line-follower-robot "Simple line follower robot") with a few extra features. It will move on a grid of black lines over white background in search of a white box and when the box is detected will raise an alarm and return to its original coordinate in the grid.

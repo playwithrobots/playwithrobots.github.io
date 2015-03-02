@@ -2,6 +2,7 @@
 layout: post
 title: "Pioneer P3-DX and ADstar planner"
 category: "pioneer"
+comments : true
 redirect_from: "/working-on-robots/pioneer/13-pioneer-p3dx-adstar/"
 ---
 Today we all will be playing with Pioneer P3-DX robot. We'll learn how to program the robot to navigate in a grid world approach using the ADstar planning algorithm provided in the ROS[ SBPL](http://www.ros.org/wiki/sbpl "SBPL package in ROS") package.

@@ -2,6 +2,7 @@
 layout: post
 title: "Controlling SparkV using Android phone's accelerometer"
 category: "spark-V"
+comments : true
 redirect_from: "/working-on-robots/sparkv/16-controlling-sparkv-using-android-phone-s-accelerometer/"
 ---
 After integrating [ROS and SparkV](/ros-and-sparkv "ROS and SparkV") robot, its very easy to control the SparkV robot using Android phone's accelerometer. The prerequisite for this tutorial is basic understanding of [ROS](http://www.ros.org/ "ROS ") and my previous tutorial of integrating [ROS and SparkV.](/ros-and-sparkv "ROS and SparkV ") 

@@ -2,6 +2,7 @@
 layout: post
 title: "Edge avoider robot"
 category: "make-it-from-scratch"
+comments : true
 redirect_from: "/make-it-form-scratch/edge-avoider-robot/"
 ---
 A robot that moves on an elevated surface by automatically detecting edges and avoiding the fall. !!

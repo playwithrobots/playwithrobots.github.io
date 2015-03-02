@@ -2,6 +2,7 @@
 layout: post
 title: "DC-Motor Driver circuits"
 category: "motor-driver-circuits"
+comments : true
 redirect_from: "/robotics-pool/motor-driver-circuits/dc/"
 ---
 ### Why is there a need for a motor driver circuit? 

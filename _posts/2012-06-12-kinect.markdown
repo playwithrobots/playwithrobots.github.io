@@ -2,6 +2,7 @@
 layout: post
 title: "Kinect"
 category: "sensors"
+comments : true
 redirect_from: "/robotics-pool/kinect/"
 ---
 [**Kinect**](http://en.wikipedia.org/wiki/Kinect) is a motion sensing input device by Microsoft for the Xbox 360 video game console and Windows PCs. The device features an RGB camera, depth sensor and multi-array microphone running proprietary software, which provide full-body 3D motion capture, facial recognition and voice recognition capabilities.

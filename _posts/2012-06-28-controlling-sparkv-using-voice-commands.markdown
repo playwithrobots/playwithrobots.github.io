@@ -2,6 +2,7 @@
 layout: post
 title: "Controlling SparkV using voice commands"
 category: "spark-V"
+comments : true
 redirect_from: "/working-on-robots/sparkv/17-controlling-sparkv-using-voice-commands/"
 ---
 After controlling SparkV using [Android phone's accelerometer](/controlling-sparkv-using-android-phone-accelerometer), I decided to control it using voice commands. While searching for suitable tutorials, I found a very good one on [speech recognition and teleoperate TurtleBot Robot. ](http://www.pirobot.org/blog/0022/)The tutorial is very easy to understand and has made our task very easy. The prerequisite for this tutorial is basic understanding of [ROS](http://www.ros.org/ "ROS "), integrating [ROS and SparkV](/ros-and-sparkv "ROS and SparkV ") and a little about [python](http://python.org/). 
