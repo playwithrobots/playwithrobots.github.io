@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+PlaywithRobots website contains tutorials related to robotics and microcontrollers designed for beginners. I (<a href="http://abhishek.ind.in">Abhishek</a>) made these tutorials when I was doing my under graduation at PEC University of Technology, Chandigarh. No new tutorial has been added since 2012, however I actively reply to comments posted on tutorials.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+For any questions related to a tutorial, please post the same in comment box below tutorial.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Email : <{{site.email}}>
+
+Facebook : <https://facebook.com/playwithrobots>
+
+You can find the source code for PlaywithRobots at [github.com/playwithrobots/](https://github.com/playwithrobots/playwithrobots.github.io)
