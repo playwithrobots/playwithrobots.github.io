@@ -1,22 +1,18 @@
 ---
 layout: default
 ---
-
-  	<div class="row">
-
-  		<div class="col-md-8 col-md-offset-1">
-	    <h1 class="post-title">{{ page.title }}</h1>
-	    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-	    </div
+<div class="row">
+	<div class="col-md-8 col-md-offset-1">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 	</div>
-
-
-  <article class="article">
+</div>
+<article class="article">
   <div class="row">
     <div class="col-md-8 col-md-offset-1">{{ content }}</div>
     <div class="col-md-3">{% include sidebar.html %}</div>
   </div>
-  </article>
+</article>
 <div class="row">
   <div class="col-md-8 col-md-offset-1">
     {% if site.facebookLikeBox %}{% include facebookLikeBox.html %}{% endif %}
