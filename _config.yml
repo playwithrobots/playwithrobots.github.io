@@ -7,7 +7,7 @@ url: "http://playwithrobots.com" # the base hostname & protocol for your site
 twitter_username: playwithrobots
 github_username:  playwithrobots
 disqus_shortname: playwithrobots
-global_comments_enabled: false
+global_comments_enabled: true
 facebookLikeBox: true
 # Build settings
 markdown: redcarpet
