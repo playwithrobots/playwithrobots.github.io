@@ -9,10 +9,11 @@ As the name suggests an Advanced Line Follower Robot is just a [Simple Line Foll
 
 After reading this section completely you will be able to make one from simple components and play with it. Moreover we will make it modular so that it can be easily modified in future.
 
-The main electronics/mechanical components that will be used in making this line follower robot are ATmega32/16 micro-controller, L293D IC, five sensors made using IR LED, photodiode and LM324 IC, acrylic sheet, General purpose board, Two DC motors and battery. 
+The main electronics/mechanical components that will be used in making this line follower robot are ATmega32/16 micro-controller, L293D IC, five sensors made using IR LED, photodiode and LM324 IC, acrylic sheet, General purpose board, Two DC motors and battery.
 
- <iframe src="http://www.youtube.com/embed/GqAMgG-gc0c" frameborder="0" width="640" height="360"></iframe>
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/GqAMgG-gc0c"></iframe>
+</div>
 ## Chassis
 
 The Chassis used for this line follower is same as the one we used in making Simple line follower robot. If you haven't made that, no worry just read the [chassis](/simple-line-follower-robot#chassis "Chassis") part in the [Simple line follower](/simple-line-follower-robot) robot article.
@@ -125,6 +126,8 @@ Obviously, without a grid the robot can't move. I made a sample arena on chart p
 
 After adjusting all the sensors threshold and with some trail and error finally the robot will starts moving. :) See the video below. 
 
-<iframe src="http://www.youtube.com/embed/GqAMgG-gc0c" frameborder="0" width="640" height="360"></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/GqAMgG-gc0c"></iframe>
+</div>
 
 Hope you liked the above tutorial. Subscribe to PlaywithRobots on facebook for more updates.

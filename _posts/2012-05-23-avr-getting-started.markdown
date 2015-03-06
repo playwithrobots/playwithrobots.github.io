@@ -34,9 +34,9 @@ A programmer depends upon the communication port (Serial, parallel or USB port) 
 Combination of Avr studio 4 , WinAVR and eXtreme burner will be good for windows user.
 
 Basic setting of how to make a new project in AVR studio 4 is shown in the video below: (watch it at full screen high resolution!)
-
-<iframe src="http://www.youtube.com/embed/wXbSVQhS8G8" width="480" height="360"></iframe>
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/wXbSVQhS8G8"></iframe>
+</div>
 For Linux user a simple text editor, avr-gcc compier and avr-dude. You can use this [makefile](/files/Makefile) for building your AVR code.
 
 Now we can move ahead and understand the[ basic input output concepts of AVR microcontrollers](/avr-basic-io).

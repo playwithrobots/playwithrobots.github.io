@@ -11,8 +11,9 @@ After reading this section completely you will be playing with the one shown bel
 
 The main electronics/mechanical components that will be used in making this line follower robot are two sensors made using LDRs, transistors as motor driver circuit, acrylic sheet, General purpose board, Two DC motors and battery.
 
-<iframe src="http://www.youtube.com/embed/o5qvvWnSbkE" frameborder="0" width="560" height="315"></iframe>
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/o5qvvWnSbkE"></iframe>
+</div>
 So let’s start making its chassis.
 
 ## Chassis
@@ -95,6 +96,8 @@ Small cheap 9 V batteries will not be able to drive this robot for more that 4-5
 
 Adjust the threshold of LDR such that when sensor is on black surface voltage at base of transistor must be less than 0.5Volts. If motors are rotating is reverse direction just change the polarity of that motor. After all this you would be able to make a robot that moves like the one below!.
 
-<iframe src="http://www.youtube.com/embed/o5qvvWnSbkE" frameborder="0" width="560" height="315"></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/o5qvvWnSbkE"></iframe>
+</div>
 
 Hope you liked the above tutorial. Subscribe to PlaywithRobots on facebook for more updates.

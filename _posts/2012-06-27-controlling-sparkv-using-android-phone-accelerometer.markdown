@@ -69,5 +69,6 @@ rosrun sparkV_android android
 </span></span>
 
 <span>See the video below how it works!. </span>
-
-<iframe src="http://www.youtube.com/embed/bx-z-fK4GdU" frameborder="0" width="640" height="360"></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/bx-z-fK4GdU"></iframe>
+</div>

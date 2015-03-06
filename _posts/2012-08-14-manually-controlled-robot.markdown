@@ -5,12 +5,12 @@ category: "make-robots"
 comments : true
 redirect_from: "/make-it-form-scratch/manually-controlled-robot/"
 ---
-This tutorial focuses on making a manual controlled robot using a wired remote control. This robot can traverse on plain surface as well as as rough terrain. 
+This tutorial focuses on making a manual controlled robot using a wired remote control. This robot can traverse on plain surface as well as as rough terrain.
 
-You can see the robot in action in the video below: 
-
- <iframe src="http://www.youtube.com/embed/Sgiectb69fw" frameborder="0" width="640" height="360"></iframe>
-
+You can see the robot in action in the video below:
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/Sgiectb69fw"></iframe>
+</div>
 ### Components required and steps:
 
 **1.** bakelite sheet or metal chassis or wooden ply or Acrylic sheet 
@@ -54,10 +54,11 @@ Also connect two motors on same side in parallel. Double check that the two moto
 
 {% include image.html img="images/old/complete_bot2.jpg" title="Complete Bot 2" caption="Complete Bot 2" class="lazyload" %}
 
-Drive and enjoy! 
+Drive and enjoy!
 
-<iframe src="http://www.youtube.com/embed/Sgiectb69fw" frameborder="0" width="640" height="360"></iframe>
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/Sgiectb69fw"></iframe>
+</div>
 Hope you liked the above tutorial. Subscribe to PlaywithRobots on facebook for more updates.
 
 

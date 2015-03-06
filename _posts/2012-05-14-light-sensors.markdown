@@ -18,7 +18,9 @@ As the name suggests, resistance of a LDR depends on the amount of light inciden
 
 The video below shows how the resistance varies. 
 
-<iframe src="http://www.youtube.com/embed/6MURwS6gHyI" frameborder="0" width="560" height="315"></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/6MURwS6gHyI"></iframe>
+</div>
 
 ### How to use LDR?
 
@@ -42,7 +44,9 @@ The circuit diagram of using LDR with comparator is shown below. Using Potentiom
 
 See how the above circuit works. ( This video is of transistor circuit but comparator circuit will also looks same in video! ) : 
 
-<iframe src="http://www.youtube.com/embed/UyZun5os6HU" frameborder="0" width="560" height="315"></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/UyZun5os6HU"></iframe>
+</div>
 
 Two copies of above circuit were used to make a [simple line follower robot!.](/simple-line-follower-robot "Simple line follower robot")
 
@@ -72,7 +76,9 @@ Whenever voltage V1 if greater than Voltage V2, the output is high i.e (Vcc -1.5
 
 See how the above circuit works: (This video is of transistor circuit but comparator circuit will also looks same in video! ) : 
 
-<iframe src="http://www.youtube.com/embed/08y8_4Tl0zY" frameborder="0" width="560" height="315"></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/08y8_4Tl0zY"></iframe>
+</div>
 
 Four copies of the photodiode circuit using comparator were used in making line sensors for [Advance line follower robot!.](/advance-line-follower-robot "Advance line follower robot")
 

@@ -120,7 +120,9 @@ The direction nomenclature i used is shown below.
 
 See the working of this planner in the video below : 
 
-<iframe src="http://www.youtube.com/embed/sW-yAaGKBJ0" frameborder="0" width="480" height="360"></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/sW-yAaGKBJ0"></iframe>
+</div>
 
 The goal coordinate of the robot is somewhere nearer to the blue basket. 
 

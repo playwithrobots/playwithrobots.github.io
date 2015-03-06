@@ -45,9 +45,9 @@ Then go in front of the Robot and point at a location!!.
 NOTE: You may have to calibrate you body before pointing depending on version of Openni and NITE installed. For details read openni_tracker node [wiki](http://www.ros.org/wiki/openni_tracker "Openni_tracker") page. 
 
 ### Video:
-
-<iframe src="http://www.youtube.com/embed/Jis2Leavhok" frameborder="0" width="480" height="360"></iframe>
-
-Now a person can be randomly moving his right hand here and there, in order to avoid random point calculation, whenever a user raises his left hand above the head, right hand is used to calculate the point. 
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/Jis2Leavhok"></iframe>
+</div>
+Now a person can be randomly moving his right hand here and there, in order to avoid random point calculation, whenever a user raises his left hand above the head, right hand is used to calculate the point.
 
 Comments are welcomed :)

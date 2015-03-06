@@ -7,11 +7,10 @@ redirect_from: "/make-it-form-scratch/edge-avoider-robot/"
 ---
 A robot that moves on an elevated surface by automatically detecting edges and avoiding the fall. !!
 
-This tutorial is on making edge avoider robot can be seen in the video below: 
-
-<iframe src="http://www.youtube.com/embed/9R7hQVO5Se8" frameborder="0" width="640" height="360"></iframe>
-
-### Components used: 
+This tutorial is on making edge avoider robot can be seen in the video below:
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/9R7hQVO5Se8"></iframe>
+</div>
 
 #### Electronics
 
@@ -79,6 +78,7 @@ Sensor placement is important, fix it in the front of the robot by extending rob
 
 The video once again !!
 
-<iframe src="http://www.youtube.com/embed/9R7hQVO5Se8" frameborder="0" width="640" height="360"></iframe>
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/9R7hQVO5Se8"></iframe>
+</div>
 Hope you liked the above tutorial. Subscribe to PlaywithRobots on facebook for more updates.

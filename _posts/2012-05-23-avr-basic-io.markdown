@@ -201,7 +201,7 @@ _delay_ms(500); // delay of 500ms
 {% endhighlight %}
 
 See how the above code works in a short video below!. Although the LEDs are blinking at 1s interval, the point of showing this video is that the circuit used in this video is same as used in Advance Line follower robots. This is main advantage of using Microcontrollers, just by changing the codes, same circuits will work differently.
-
-<iframe src="http://www.youtube.com/embed/TAeIcF75KWQ" frameborder="0" width="640" height="360"></iframe>
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/TAeIcF75KWQ"></iframe>
+</div>
 Hope this was helpful to you! Any questions ? Comment here!

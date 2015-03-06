@@ -7,10 +7,10 @@ redirect_from: "/robotics-pool/remote-control-circuits/wired-relay-remote/"
 ---
 This tutorial focuses on making a wired remote control circuit for a differential drive robot.  This remote can control DC motors with maximum load current of 7A DC. However the current rating can be increased by changing the relays with higher rating.
 
-You can see the remote in action in the video below: 
-
-<iframe src="http://www.youtube.com/embed/Sgiectb69fw" frameborder="0" width="640" height="360"></iframe>
-
+You can see the remote in action in the video below:
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/Sgiectb69fw"></iframe>
+</div>
 ### Components required:
 
 * **Relays:**
@@ -59,6 +59,7 @@ Now connect the robot with other end of ribbon wire. If the motors are not movin
 
 Watch the robot is action!.  
 
-<iframe src="http://www.youtube.com/embed/Sgiectb69fw" frameborder="0" width="640" height="360"></iframe> 
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/Sgiectb69fw"></iframe>
+</div>
 Hope you liked the above tutorial. Subscribe to PlaywithRobots on facebook for more updates.
