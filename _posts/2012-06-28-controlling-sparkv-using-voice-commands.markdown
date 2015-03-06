@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Controlling SparkV using voice commands"
-category: "spark-V"
+category: "sparkV-Robot"
 comments : true
 redirect_from: "/working-on-robots/sparkv/17-controlling-sparkv-using-voice-commands/"
 ---

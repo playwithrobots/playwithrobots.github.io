@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Basic hardware and software required for AVR"
-category: "avr"
+category: "AVR-Tutorials"
 comments : true
 redirect_from: "/robotics-pool/avr/getting-started/"
 ---

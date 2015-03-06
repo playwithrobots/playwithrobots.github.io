@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pioneer P3-DX and ADstar planner"
-category: "pioneer"
+category: "Pioneer-P3DX-Robot"
 comments : true
 redirect_from: "/working-on-robots/pioneer/13-pioneer-p3dx-adstar/"
 ---

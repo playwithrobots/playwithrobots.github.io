@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Input/Output Concept"
-category: "avr"
+category: "AVR-Tutorials"
 comments : true
 redirect_from: "/robotics-pool/avr/basic-input-output/"
 ---

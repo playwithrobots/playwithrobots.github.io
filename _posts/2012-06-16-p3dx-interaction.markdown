@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Human Interaction with Pioneer P3-DX"
-category: "pioneer"
+category: "Pioneer-P3DX-Robot"
 comments : true
 redirect_from: "/working-on-robots/pioneer/14-p3dx-interaction/"
 ---

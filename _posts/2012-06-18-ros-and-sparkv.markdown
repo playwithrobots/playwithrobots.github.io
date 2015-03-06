@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ROS and SparkV"
-category: "spark-V"
+category: "sparkV-Robot"
 comments : true
 redirect_from: "/working-on-robots/sparkv/15-ros-and-sparkv/"
 ---

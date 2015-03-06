@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Manually controlled robot"
-category: "make-it-from-scratch"
+category: "make-robots"
 comments : true
 redirect_from: "/make-it-form-scratch/manually-controlled-robot/"
 ---

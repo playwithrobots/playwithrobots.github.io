@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advance Line Follower robot"
-category: "make-it-from-scratch"
+category: "make-robots"
 comments : true
 redirect_from: "/make-it-form-scratch/advance-line-follower-robot/"
 ---

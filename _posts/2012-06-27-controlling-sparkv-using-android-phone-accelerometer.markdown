@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Controlling SparkV using Android phone's accelerometer"
-category: "spark-V"
+category: "sparkV-Robot"
 comments : true
 redirect_from: "/working-on-robots/sparkv/16-controlling-sparkv-using-android-phone-s-accelerometer/"
 ---

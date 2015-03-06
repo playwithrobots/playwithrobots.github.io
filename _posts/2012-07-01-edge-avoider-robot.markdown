@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Edge avoider robot"
-category: "make-it-from-scratch"
+category: "make-robots"
 comments : true
 redirect_from: "/make-it-form-scratch/edge-avoider-robot/"
 ---

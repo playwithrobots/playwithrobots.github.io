@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AVR fuse bits"
-category: "avr"
+category: "AVR-Tutorials"
 comments : true
 redirect_from: "/robotics-pool/avr/fuse/"
 ---
