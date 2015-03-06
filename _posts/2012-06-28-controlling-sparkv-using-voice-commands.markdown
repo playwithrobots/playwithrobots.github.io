@@ -159,4 +159,6 @@ rosrun rosserial_python serial_node.py /dev/ttyUSB0
 {% endhighlight %}
 <span>See the video of how it works :) . </span>
 
-<iframe src="http://www.youtube.com/embed/XW8SS8Yy8bI" frameborder="0" width="480" height="360"></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/XW8SS8Yy8bI"></iframe>
+</div>
