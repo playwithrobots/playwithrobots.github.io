@@ -5,4 +5,4 @@ Code : [MIT License](http://opensource.org/licenses/MIT)
 
 Theme : [Bootstrap](http://getbootstrap.com/)
 
-Lazy loader for images : [lazysizes](https://github.com/aFarkas/lazysizes/) for ay
+Lazy loader for images : [lazysizes](https://github.com/aFarkas/lazysizes/)

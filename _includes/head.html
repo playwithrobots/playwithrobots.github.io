@@ -3,6 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex" />
+  {% if page.url == '/404.html/'%} <meta http-equiv="refresh" content="5; url={{site.url}}"> {% endif %}
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <script src="/js/lazysizes.min.js" async=""></script>
   <script src="/js/jquery-1.11.2.min.js"></script>
